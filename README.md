@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Abhishek Satish Dharamkar
 
-🎓 I'm an **Electronics and Telecommunication (ENTC)** engineering student with a strong passion for **software development**, focusing on **DSA** and **full-stack (MERN) development** to crack top tech placements.
+🎓 I'm an **Electronics and Telecommunication (ENTC)** engineering student, passionate about becoming a top-tier **software developer** through mastery of **DSA** and **full-stack development (MERN)**.
 
 ---
 
 ## 🚀 What I’m Working On
 
-- 🧠 Mastering **Data Structures & Algorithms** (Striver A2Z + LeetCode)
-- 🌐 Building full-stack apps with **MERN Stack**
-- 💡 Writing clean, scalable code for real-world solutions
+- 🧠 Solving problems daily on **LeetCode** and **Striver A2Z Sheet**
+- 💻 Building scalable web applications using the **MERN Stack**
+- 🧼 Writing clean, maintainable, and efficient code
 
 ---
 
-## 🔧 Tech Stack
+## 🧰 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -29,22 +29,28 @@
 
 ## 📈 GitHub Stats
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekd3010&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekd3010&layout=compact&theme=tokyonight&hide_border=true)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekd3010&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekd3010&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-## 🧮 LeetCode Progress
+## 🟩 GitHub Green Contribution Graph
 
-![LeetCode](https://leetcard.jacoblin.cool/abhishekd3010?theme=dark&font=Baloo+Bhai&ext=activity)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhishekd3010&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 🔢 LeetCode Progress
+
+![LeetCode](https://leetcard.jacoblin.cool/abhishekd3010?theme=dark&font=Baloo+Bhai&ext=heatmap)
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🔁 Advanced DSA patterns (Sliding Window, Binary Search, DP)
-- 🔐 Secure Web Development (JWT, OAuth, Role-based Auth)
-- ☁️ Deployment on **Vercel**, **Render**, **MongoDB Atlas**
+- 🧩 Advanced DSA techniques (Recursion, DP, Graphs)
+- 🔐 Secure Authentication (JWT, OAuth)
+- ☁️ Cloud & Deployment: **Vercel**, **Render**, **MongoDB Atlas**
 
 ---
 
@@ -55,5 +61,5 @@
 
 ---
 
-> 💬 *“Consistency and curiosity are my greatest strengths.”*
+> 💬 *“Consistency beats intensity — one problem, one push at a time.”*
 

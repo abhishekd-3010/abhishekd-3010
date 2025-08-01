@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Abhishek Satish Dharamkar
 
+![Profile Views](https://komarev.com/ghpvc/?username=abhishekd3010&color=blue&style=flat-square)
+
+
 🎓 I'm an **Electronics and Telecommunication (ENTC)** engineering student passionate about **DSA** and **full-stack development**.
 
 ---
@@ -25,11 +28,6 @@
 
 ![LeetCode](https://leetcard.jacoblin.cool/abhishekd3010?theme=dark&font=Baloo+Bhai&ext=heatmap)
 
-### 🟩 GitHub Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhishekd3010&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
----
 
 ## 📫 Connect With Me
 

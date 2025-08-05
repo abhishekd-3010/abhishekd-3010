@@ -25,7 +25,7 @@
 
 ## 📊 DSA Progress
 
-### 🔢 LeetCode Heatmap
+### 🔢 LeetCode 
 
 ![LeetCode](https://leetcard.jacoblin.cool/abhishekd3010?theme=dark&font=Baloo+Bhai&ext=heatmap)
 

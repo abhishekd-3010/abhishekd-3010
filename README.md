@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=abhishekd3010&color=blue&style=flat-square)
 
 
-🎓 I'm an **Electronics and Telecommunication (ENTC)** engineering student passionate about **DSA** and **full-stack development**.
+🎓 I'm an **Electronics and Telecommunication (ENTC)** engineering student passionate about **DSA** and **full-stack development**..
 
 ---
 
